@@ -1,4 +1,4 @@
-FROM quay.io/ambient_code/langgraph-wrapper:base
+FROM quay.io/gkrumbach07/langgraph-wrapper:base
 
 WORKDIR /app/workflow
 
